@@ -15,3 +15,22 @@
 - Understanding file paths
 - Handling missing values
 - Using pandas functions
+## Week 2 - Machine Learning
+
+### Models Used
+- Decision Tree
+- Random Forest
+- Logistic Regression
+
+### Results
+- Decision Tree Accuracy: XX
+- Random Forest Accuracy: XX
+- Logistic Regression Accuracy: XX
+
+### Best Model
+(Random Forest / Logistic Regression)
+
+### Learning
+- How to split data
+- How to train ML models
+- Importance of preprocessing
