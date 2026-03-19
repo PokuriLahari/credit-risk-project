@@ -34,3 +34,7 @@
 - How to split data
 - How to train ML models
 - Importance of preprocessing
+
+Decision Tree Accuracy:      71%
+Random Forest Accuracy:      75.6%
+Logistic Regression Accuracy: 78.8% ✅ Best Model
